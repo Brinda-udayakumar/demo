@@ -1,0 +1,16 @@
+C:\Users\brind\source\repos\CsharpAssignment1\CsharpAssignment1\bin\Debug\net5.0\CsharpAssignment1.exe
+C:\Users\brind\source\repos\CsharpAssignment1\CsharpAssignment1\bin\Debug\net5.0\CsharpAssignment1.deps.json
+C:\Users\brind\source\repos\CsharpAssignment1\CsharpAssignment1\bin\Debug\net5.0\CsharpAssignment1.runtimeconfig.json
+C:\Users\brind\source\repos\CsharpAssignment1\CsharpAssignment1\bin\Debug\net5.0\CsharpAssignment1.runtimeconfig.dev.json
+C:\Users\brind\source\repos\CsharpAssignment1\CsharpAssignment1\bin\Debug\net5.0\CsharpAssignment1.dll
+C:\Users\brind\source\repos\CsharpAssignment1\CsharpAssignment1\bin\Debug\net5.0\ref\CsharpAssignment1.dll
+C:\Users\brind\source\repos\CsharpAssignment1\CsharpAssignment1\bin\Debug\net5.0\CsharpAssignment1.pdb
+C:\Users\brind\source\repos\CsharpAssignment1\CsharpAssignment1\obj\Debug\net5.0\CsharpAssignment1.csproj.AssemblyReference.cache
+C:\Users\brind\source\repos\CsharpAssignment1\CsharpAssignment1\obj\Debug\net5.0\CsharpAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brind\source\repos\CsharpAssignment1\CsharpAssignment1\obj\Debug\net5.0\CsharpAssignment1.AssemblyInfoInputs.cache
+C:\Users\brind\source\repos\CsharpAssignment1\CsharpAssignment1\obj\Debug\net5.0\CsharpAssignment1.AssemblyInfo.cs
+C:\Users\brind\source\repos\CsharpAssignment1\CsharpAssignment1\obj\Debug\net5.0\CsharpAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\brind\source\repos\CsharpAssignment1\CsharpAssignment1\obj\Debug\net5.0\CsharpAssignment1.dll
+C:\Users\brind\source\repos\CsharpAssignment1\CsharpAssignment1\obj\Debug\net5.0\ref\CsharpAssignment1.dll
+C:\Users\brind\source\repos\CsharpAssignment1\CsharpAssignment1\obj\Debug\net5.0\CsharpAssignment1.pdb
+C:\Users\brind\source\repos\CsharpAssignment1\CsharpAssignment1\obj\Debug\net5.0\CsharpAssignment1.genruntimeconfig.cache
